@@ -1,0 +1,1 @@
+"""kuebiko-mansa main module."""
