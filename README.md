@@ -1,4 +1,6 @@
 # kuebiko_mansa
+[![Python: 3.8.2](https://img.shields.io/badge/python-3.8.2-blue.svg)](https://www.python.org/downloads/release/python-381/)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
 
 I decided to work on `option B: Predict the next week's outgoing given the past 3 months (12 weeks)` (reason explained bellow - notebooks 2).
 
